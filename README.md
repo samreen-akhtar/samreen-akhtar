@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samreen Akhtar</h1>
 <h3 align="center">Final Year Computer Science Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/samreen-akhtar/samreen-akhtar/assets/110802942/8b68be72-e004-42d2-b20f-2bf4275f13be
-">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samreen-akhtar&label=Profile%20views&color=0e75b6&style=flat" alt="samreen-akhtar" /> </p>
 
