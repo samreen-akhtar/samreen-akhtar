@@ -3,7 +3,8 @@
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samreen-akhtar&label=Profile%20views&color=0e75b6&style=flat" alt="samreen-akhtar" /> </p>
-- 🌱 I’m currently learning **MERN Stack Development**
+
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Frontend Development**
 
