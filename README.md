@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samreen Akhtar</h1>
 <h3 align="center">Final Year Computer Science Engineering Student</h3>
-<img align="right src="https://img.freepik.com/free-vector/code-review-concept-illustration_114360-4289.jpg?size=626&ext=jpg&ga=GA1.2.549581292.1691308827&semt=ais" width="400">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samreen-akhtar&label=Profile%20views&color=0e75b6&style=flat" alt="samreen-akhtar" /> </p>
 
