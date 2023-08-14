@@ -3,7 +3,11 @@
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samreen-akhtar&label=Profile%20views&color=0e75b6&style=flat" alt="samreen-akhtar" /> </p>
+- 🌱 I’m currently learning **MERN Stack Development**
 
+- 💬 Ask me about **Frontend Development**
+
+- 📫 How to reach me **samreenakhtar008@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samreen-akhtar-514945221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samreen-akhtar-514945221/" height="30" width="40" /></a>
